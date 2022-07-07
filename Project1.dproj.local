@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>1899.12.30 00:00:00.000.618,=C:\Users\Anwender\Downloads\2560x1600_px_Simple_Background_Star_Trek-1212768.jpg</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.893,=C:\Users\Anwender\Downloads\star-trek-bt.ttf</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.078,C:\Users\Anwender\Desktop\Schule\SBSZ\Klasse 11\Programmieren\Project1.dproj=C:\Users\Anwender\Desktop\Schule\SBSZ\Klasse 11\Programmieren\Programme\Warp-Rechner\Project1.dproj</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.351,=C:\Users\Anwender\Desktop\Schule\SBSZ\Klasse 11\Programmieren\Programme\Warp-Rechner\Ressourcen\star-trek-bt.ttf</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.700,=C:\Users\Anwender\Desktop\Schule\SBSZ\Klasse 11\Programmieren\Programme\Warp-Rechner\Unit2.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.287,=C:\Users\Anwender\Desktop\Schule\SBSZ\Klasse 11\Programmieren\Programme\Warp-Rechner\Ressourcen\2560x1600_px_Simple_Background_Star_Trek-1212768.jpg</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.303,=C:\Users\Anwender\Desktop\Schule\SBSZ\Klasse 11\Programmieren\Programme\Warp-Rechner\Ressourcen\Intro [1972].mp4</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.381,C:\Users\Anwender\Desktop\Schule\SBSZ\Klasse 11\Programmieren\Programme\Warp-Rechner\WarpBerechnung.pas=C:\Users\Anwender\Desktop\Schule\SBSZ\Klasse 11\Programmieren\Programme\Warp-Rechner\Unit2.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.160,=C:\Users\Anwender\Desktop\Schule\SBSZ\Klasse 11\Programmieren\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.570,C:\Users\Anwender\Desktop\Schule\SBSZ\Klasse 11\Programmieren\Unit1.pas=C:\Users\Anwender\Desktop\Schule\SBSZ\Klasse 11\Programmieren\Programme\Warp-Rechner\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.994,C:\Users\Anwender\Desktop\Schule\SBSZ\Klasse 11\Programmieren\Programme\Warp-Rechner\Ressourcen\‌StarTrek Intro.gif=</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.319,=C:\Users\Anwender\Desktop\Schule\SBSZ\Klasse 11\Programmieren\Programme\Warp-Rechner\Ressourcen\‌StarTrek Intro.gif</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.570,C:\Users\Anwender\Desktop\Schule\SBSZ\Klasse 11\Programmieren\Unit1.dfm=C:\Users\Anwender\Desktop\Schule\SBSZ\Klasse 11\Programmieren\Programme\Warp-Rechner\Unit1.dfm</Transaction>
+    <Transaction>2022.07.07 18:37:00.881,C:\Users\Anwender\Desktop\Schule\SBSZ\Klasse 11\Programmieren\Programme\Warp-Rechner\Ressourcen\2560x1600_px_Simple_Background_Star_Trek-1212768.jpg=</Transaction>
+    <Transaction>2022.07.07 18:37:00.931,=C:\Users\Anwender\Desktop\Schule\SBSZ\Klasse 11\Programmieren\Programme\Warp-Rechner\Ressourcen\MPQITa.jpg</Transaction>
+  </Transactions>
+</BorlandProject>
